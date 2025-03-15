@@ -1,6 +1,6 @@
 # Customer Segmentation Project
 
-![](Model-Customer-Segmentation.jpg)
+![](cust_seg.jpg)
 
 ## Introduction
 
