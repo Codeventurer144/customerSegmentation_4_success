@@ -151,4 +151,8 @@ All the technical things are in the Jupyter notebook. So for simplicity's sake, 
 
 # Conclusion
 
-As is observable from the findings, these details about customer segment purchasing and promo response behavior would be undiscoverable with mere visualizations. With the insight provided, the stakeholder will be able to understand what each customer wants, and predict what future customer purchasing behavior alongside the kind of promos to market to them that will guarantee near 100% success!
+As is observable from the findings, these details about customer segment purchasing and promo response behaviour would be undiscoverable with mere visualizations. With the insight provided, the stakeholder will be able to understand what each customer wants, and predict future customer purchasing behaviour alongside the kind of promos to market to them that will guarantee near 100% success! 
+
+### Thank you very much for your time, and kindly remember to view the Jupyter Notebook for a more technical understanding of how I arrived at my findings. 
+
+[![Click Here to View the Jupyter Notebook](https://img.shields.io/badge/Click%20Here%20to%20View%20the%20Jupyter%20Notebook-orange?style=flat-square&color=orange)](Advanced_Customer_Segmentation.ipynb)
